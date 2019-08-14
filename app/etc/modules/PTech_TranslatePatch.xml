@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <modules>
+        <PTech_TranslatePatch>
+            <active>true</active>
+            <codePool>community</codePool>
+        </PTech_TranslatePatch>
+    </modules>
+</config>

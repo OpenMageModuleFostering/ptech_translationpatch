@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <name>PTech_TranslationPatch</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <stability>stable</stability>
     <license uri="http://opensource.org/licenses/osl-3.0.php">Open Software License (OSL 3.0)</license>
     <channel>community</channel>
@@ -17,8 +17,8 @@ The files exist in app/locale, but are missing from the appropriate modules conf
     <notes>Stable release includes all (but one) missing translations.</notes>
     <authors><author><name>Michael Zakharov</name><user>tms320c</user><email>trapman.hunt@gmail.com</email></author></authors>
     <date>2012-08-11</date>
-    <time>12:06:41</time>
-    <contents><target name="magecommunity"><dir name="PTech"><dir name="TranslatePatch"><dir name="etc"><file name="config.xml" hash="8fb8b0a42a5c31c26c5cf1876b54fabd"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="PTech_TranslationPatch.xml" hash=""/></dir></target></contents>
+    <time>12:46:35</time>
+    <contents><target name="magecommunity"><dir name="PTech"><dir name="TranslatePatch"><dir name="etc"><file name="config.xml" hash="8fb8b0a42a5c31c26c5cf1876b54fabd"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="PTech_TranslatePatch.xml" hash="07e9d0ed119be0c90dad05445f3c682c"/></dir></target></contents>
     <compatible/>
     <dependencies><required><php><min>5.2.13</min><max>5.4.0</max></php></required></dependencies>
 </package>
