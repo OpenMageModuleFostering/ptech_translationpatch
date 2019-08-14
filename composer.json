@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/PTech_TranslationPatch",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL-3.0)",
+    "homepage": "",
+    "description": "Loads translation files that present in app/locale, but are missing in appropriate config.xml",
+    "authors": [
+    {
+        "name": "Michael Zakharov",
+        "email": "trapman.hunt@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

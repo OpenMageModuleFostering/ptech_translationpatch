@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/**
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Open Software License (OSL 3.0), a
+ * copy of which is available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/osl-3.0.php
+ *
+ * @category   community
+ * @package    PTech_TranslatePatch
+ * @author     tms320c
+ * @copyright  Copyright (c) 2012
+ * @license    http://opensource.org/licenses/osl-3.0.php Open Software License (OSL 3.0)
+ */
+-->
+<config>
+    <modules>
+        <PTech_TranslatePatch>
+            <version>1.0.0</version>
+        </PTech_TranslatePatch>
+    </modules>
+    <frontend>
+        <translate>
+            <modules>
+                <Mage_Captcha>
+                    <files>
+                        <default>Mage_Captcha.csv</default>
+                    </files>
+                </Mage_Captcha>
+                <Mage_Dataflow>
+                    <files>
+                        <default>Mage_Dataflow.csv</default>
+                    </files>
+                </Mage_Dataflow>
+                <Mage_Weee>
+                    <files>
+                        <default>Mage_Weee.csv</default>
+                    </files>
+                </Mage_Weee>
+            </modules>
+        </translate>
+    </frontend>
+    <adminhtml>
+        <translate>
+            <modules>
+                <Mage_Api2>
+                    <files>
+                        <default>Mage_Api2.csv</default>
+                    </files>
+                </Mage_Api2>
+                <Mage_Captcha>
+                    <files>
+                        <default>Mage_Captcha.csv</default>
+                    </files>
+                </Mage_Captcha>
+                <Mage_Connect>
+                    <files>
+                        <default>Mage_Connect.csv</default>
+                    </files>
+                </Mage_Connect>
+                <Mage_Dataflow>
+                    <files>
+                        <default>Mage_Dataflow.csv</default>
+                    </files>
+                </Mage_Dataflow>
+                <Mage_ImportExport>
+                    <files>
+                        <default>Mage_ImportExport.csv</default>
+                    </files>
+                </Mage_ImportExport>
+                <Mage_Weee>
+                    <files>
+                        <default>Mage_Weee.csv</default>
+                    </files>
+                </Mage_Weee>
+            </modules>
+        </translate>
+    </adminhtml>
+</config>
