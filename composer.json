@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/PTech_TranslationPatch",
+    "name": "openmage-module-fostering\/ptech_translationpatch",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL-3.0)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Loads translation files that present in app\/locale, but are missing in appropriate config.xml",
     "authors": [
